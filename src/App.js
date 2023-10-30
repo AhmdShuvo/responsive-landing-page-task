@@ -2,9 +2,12 @@
 import React from 'react';
 import Navigation from './Pages/components/NavBar/Navigation';
 import Slider from './Pages/components/Slider';
-import Footer from './Pages/components/Footer';
+import Footer from './Pages/components/Footer/Footer';
 import AboutUs from './Pages/components/AboutUs/AboutUs';
 import Services from './Pages/components/AboutUs/Services/Service';
+import HeroSection from './Pages/components/Hero/Hero';
+import Testimonials from './Pages/components/Testimonials/Testimonials';
+import Contact from './Pages/components/Testimonials/Contact/Contact';
 
 
 const sections = [
@@ -60,7 +63,10 @@ function App() {
         })
     
       }
+      <HeroSection/>
       <Services/>
+      <Contact/>
+      <Testimonials/>
       <AboutUs/>
       <Slider /> {/* Add the slider component here */}
       <Footer />

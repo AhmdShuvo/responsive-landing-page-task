@@ -1,0 +1,21 @@
+/* Testimonials.css */
+.testimonials {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .testimonials h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-item {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .author {
+    font-weight: bold;
+  }

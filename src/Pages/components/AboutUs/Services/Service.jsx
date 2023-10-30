@@ -14,7 +14,7 @@ function Services() {
   }, []);
 
   return (
-    <div className="services">
+    <div className="services" id='services'>
       <div className="container">
         <h2 className="fade-in">Our Services</h2>
         <div className="row">

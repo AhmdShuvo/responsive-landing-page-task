@@ -1,0 +1,43 @@
+/* Footer.css */
+.footer {
+    background-color: #222; /* Darker background color for the footer */
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .icon-link {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .icon-link:hover {
+    color: #007bff;
+  }
+  
+  .newsletter-form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-control {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
