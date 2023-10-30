@@ -1,0 +1,28 @@
+
+[
+    {
+      "title": "Web Development",
+      "description": "We create responsive and user-friendly websites using the latest web technologies."
+    },
+    {
+      "title": "Mobile App Development",
+      "description": "We develop cross-platform mobile applications that run seamlessly on various devices."
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Our talented designers craft intuitive and visually appealing user interfaces."
+    },
+    {
+      "title": "Graphic Design",
+      "description": "We offer creative graphic design services for all your branding needs."
+    },
+    {
+      "title": "SEO Services",
+      "description": "Improve your online presence with our SEO optimization solutions."
+    },
+    {
+      "title": "Content Writing",
+      "description": "Engage your audience with quality content written by our experts."
+    }
+ 
+  ]
