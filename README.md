@@ -18,3 +18,21 @@ This is a simple web application built using React.js. Provide a brief descripti
 
    ```bash
    git clone https://github.com/AhmdShuvo/responsive-landing-page-task.git
+2. Install the project dependencies:
+3. Install the project dependencies:
+Start the development server:
+
+``` bash
+Copy code
+npm start
+Open your web browser and visit http://localhost:3000 to view your application.
+```bash
+npm install
+
+3. Install the project dependencies:
+Start the development server:
+
+``` bash
+
+npm start
+Open your web browser and visit http://localhost:3000 to view your application.
