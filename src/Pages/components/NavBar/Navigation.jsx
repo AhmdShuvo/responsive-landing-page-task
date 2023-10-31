@@ -3,7 +3,7 @@ import React from 'react';
 
 function Navigation({ sections }) {
   return (
-    <section className='container'>
+    <center >
 <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div className="mx-auto">
         <a className="navbar-brand" href="#">My Landing Page</a>
@@ -21,7 +21,7 @@ function Navigation({ sections }) {
         </ul>
       </div>
     </nav>
-    </section>
+    </center>
   );
 }
 
